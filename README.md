@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science and enhancing my skills in Python
 - 💞️ I’m looking to collaborate on data science projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Swiss landscapes, especially the mountains and lakes!
+- ⚡ Fun fact: I love Swiss landscapes!
 
 <!---
 SauSauN/SauSauN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
