@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and tech 
 - 🌱 I’m currently learning data science and enhancing my skills in Python
 - 💞️ I’m looking to collaborate on data science projects
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Swiss landscapes!
 
 <!---
