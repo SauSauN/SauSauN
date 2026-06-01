@@ -36,15 +36,15 @@
 
   <a href="https://flask.palletsprojects.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://nodejs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>$
 
   <a href="https://www.php.net/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
