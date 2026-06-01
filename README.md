@@ -34,10 +34,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   </a>
 
-    <a href="https://fastapi.tiangolo.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://flask.palletsprojects.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
