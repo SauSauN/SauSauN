@@ -54,17 +54,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   </a>
 
-    <a href="https://www.python.org/">
+  <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://www.java.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://learn.microsoft.com/en-us/cpp/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
