@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @SauSauN
-- 👀 I’m interested in programming and tech 
-- 🌱 I’m currently learning data science and enhancing my skills in Python and Big Data & IA
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in programming and technology
+- 🌱 I’m currently learning Data Science and enhancing my skills in Python, Big Data, and AI
+- 💻 Technologies & Libraries I work with:
+  - [Pandas](https://pandas.pydata.org/)
+  - [NumPy](https://numpy.org/)
+  - [PySpark](https://spark.apache.org/docs/latest/api/python/)
+  - [Matplotlib](https://matplotlib.org/)
+  - [Seaborn](https://seaborn.pydata.org/)
+  - [Scikit-learn](https://scikit-learn.org/)
+  - [PyTorch](https://pytorch.org/)
+- 💞️ I’m looking to collaborate on Data Science and AI projects
 - ⚡ Fun fact: I love Swiss landscapes, especially the mountains and lakes!
