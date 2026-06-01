@@ -1,13 +1,31 @@
 - 👋 Hi, I’m @SauSauN
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning Data Science and enhancing my skills in Python, Big Data, and AI
-- 💻 Technologies & Libraries I work with:
-  - [Pandas](https://pandas.pydata.org/)
-  - [NumPy](https://numpy.org/)
-  - [PySpark](https://spark.apache.org/docs/latest/api/python/)
-  - [Matplotlib](https://matplotlib.org/)
-  - [Seaborn](https://seaborn.pydata.org/)
-  - [Scikit-learn](https://scikit-learn.org/)
-  - [PyTorch](https://pytorch.org/)
 - 💞️ I’m looking to collaborate on Data Science and AI projects
 - ⚡ Fun fact: I love Swiss landscapes, especially the mountains and lakes!
+
+  ### 💻 Technologies & Libraries
+
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apachespark" alt="PySpark" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/plotly" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+</p>
